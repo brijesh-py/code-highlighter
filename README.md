@@ -47,5 +47,3 @@ If you'd like to contribute to Code HighLighter, please follow these steps:
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
 
 ---
-
-**Note:** Replace placeholders like `#` and `brijesh-py` with the appropriate values. Additionally, update the dependencies section with accurate information about the code highlighting library you are using.
