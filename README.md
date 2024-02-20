@@ -17,7 +17,7 @@ Code HighLighter is a simple web tool for highlighting code snippets with syntax
 
 ### Demo
 
-Check out the live demo [text](https://brijesh-py.github.io/code-highlighter/)
+Check out the live demo [Code-Highlighter](https://brijesh-py.github.io/code-highlighter/)
 
 ### Installation
 
